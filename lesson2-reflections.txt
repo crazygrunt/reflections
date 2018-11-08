@@ -19,8 +19,15 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	The diagrams allow me to see it visually and interpret the correct direction for the branches when moving back and forth.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	The two branches became one. To understand how the merge occurs.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	Pros: Easy to merge when multiple people are conducting changes.
+	Cons: Multiple changes can conflict causing the conflicts to need to be corrected.
